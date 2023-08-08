@@ -1,22 +1,23 @@
 # The thorough explanation of the operations conducted in Question 3.
 [GitHub Link](https://github.com/herovired/git-assignments/tree/main/Question-3)
 
+## Table of Contents
+[GitHub Link](https://github.com/sayanalokesh/git_assignment_HeroVired)
+
+[Project description](#project-description)
+1. [Creating a branch](#1-creating-a-branch)
+2. [Creating 2 branches to work on 2 features](#10-merging-the-2-branches-to-dev)
+3. [Checking out to feature/circle-area](#3-checking-out-to-featurecircle-area)
+4. [Checking out to feature/rectangle-area](#4-checking-out-to-featurerectangle-area)
+5. [Checking out to feature/circle-area](#5-checking-out-to-featurecircle-area)
+6. [Adding the feature to the branch feature/circle-area](#6-adding-the-feature-to-the-branch-featurecircle-area)
+7. [Checking out to feature/rectangle-area](#7-checking-out-to-featurerectangle-area)
+8. [Adding the feature to the branch feature/rectangle-area](#8-adding-the-feature-to-the-branch-featurerectangle-area)
+9. [Merging the 2 branches to dev](#9-merging-the-2-branches-to-dev)
+10. [Merging the 2 branches to dev](#10-merging-the-2-branches-to-dev)
+
 ## Project description
 In this project, we will create a new branch called `geometry-calculator` in our GitHub repository. We will work on a simple Python program that calculates the area of a circle and the area of a rectangle. We will use Git stash to switch between working on multiple features (calculating circle area and calculating rectangle area) without committing incomplete changes.
-
-## Table of Contents
-* GitHub Link	1
-* Project description	1
-* 1.	Creating a branch	1
-* 2.	Creating 2 branches to work on 2 features	1
-* 3.	Checking out to feature/circle-area	2
-* 4.	Checking out to feature/rectangle-area	2
-* 5.	Checking out to feature/circle-area	3
-* 6.	Adding the feature to the branch feature/circle-area	3
-* 7.	Checking out to feature/rectangle-area	3
-* 8.	Adding the feature to the branch feature/rectangle-area	3
-* 9.	Merging the 2 branches to dev	3
-* 10.   Merging the 2 branches to dev	4
 
 ## 1.	Creating a branch
 
@@ -92,5 +93,5 @@ This command commits the changes in the staging area to the repository.
 ## 9.	Merging the 2 branches to dev
 After pushing the code to respective branches, it is time to merge both of them to the dev branch. I’ve added Adarsh as a reviewer and he merged the area after approving the code.
 
-## 10.   Merging the 2 branches to dev
+## 10.   Merging the code to main
 Since the reviewer has already approved the code, The code has been successufully merged to the main branch.
