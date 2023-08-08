@@ -2,17 +2,18 @@
 [GitHub Repository](https://github.com/your-username/git_assignment_HeroVired)
 
 ## Table of Contents
-1. [Project Description](#project-description)
-2. [Repository Creation](#repository-creation)
-3. [Branch Creation and Code Addition](#branch-creation-and-code-addition)
-4. [Merge 'dev' with 'main' and Release Version 1](#merge-dev-with-main-and-release-version-1)
-5. [Add Collaborators](#add-collaborators)
-6. [Feature Implementation on New Branch 'feature/sqrt'](#feature-implementation-on-new-branch-featuresqrt)
-7. [Bug Fix in 'dev' Branch](#bug-fix-in-dev-branch)
-8. [Pull Request and Code Review](#pull-request-and-code-review)
-9. [Merge 'feature/sqrt' into 'dev'](merge-feature-sqrt-into-dev)
-10. [Testing on 'dev' and 'main' Branches](#testing-on-dev-and-main-branches)
-11. [Merge 'dev' into 'main' and Release Version 2](#merge-dev-into-main-and-release-version-2)
+[Project Description](#project-description)
+
+1. [Repository Creation](#1-repository-creation)
+2. [Branch Creation and Code Addition](#2-branch-creation-and-code-addition)
+3. [Merge 'dev' with 'main' and Release Version 1](#3-merge-dev-with-main-and-release-version-1)
+4. [Add Collaborators](#4-add-collaborators)
+5. [Feature Implementation on New Branch 'feature/sqrt'](#5-feature-implementation-on-new-branch-featuresqrt)
+6. [Bug Fix in 'dev' Branch](#6-bug-fix-in-dev-branch)
+7. [Pull Request and Code Review](#7-pull-request-and-code-review)
+8. [Merge 'feature/sqrt' into 'dev'](#8-merge-featuresqrt-into-dev)
+9. [Testing on 'dev' and 'main' Branches](#9-testing-on-dev-and-main-branches)
+10. [Merge 'dev' into 'main' and Release Version 2](#10-merge-dev-into-main-and-release-version-2)
 
 ## Project Description
 The program is a Python application called "CalculatorPlus" that provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. The program also adds support for calculating the square root of a number.
